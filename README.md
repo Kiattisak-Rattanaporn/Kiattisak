@@ -19,24 +19,48 @@ I am a highly motivated individual with a Bachelor's degree in Electronics Engin
 * [Real Time Control Using Convolution Neural Network for Self Driving Cars](https://ieeexplore.ieee.org/document/9426255) 
 * IEEE, 2021 7th International Conference on Engineering, Applied Sciences and Technology (ICEAST)
 
-## Badge
+## Certifications
 <div>
+<a href="https://www.hackerrank.com/certificates/8d550acce023" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/Kiattisak-Rattanaporn/Kiattisak-Rattanaporn/blob/main/python_hackerrank.png"
+      alt="Python_HackerRank"
+      width="120"
+      height="80"
+    />
+ </a>
+<a href="https://www.hackerrank.com/certificates/81452df872cf" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/Kiattisak-Rattanaporn/Kiattisak-Rattanaporn/blob/main/sql_hackerrank.png"
+      alt="SQL_HackerRank"
+      width="120"
+      height="80"
+    />
+ </a>
+ <a href="https://assessment.aiat.or.th/certificate/25527e43-b0e7-43e2-bf12-64b83dbacab5" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/Kiattisak-Rattanaporn/Kiattisak-Rattanaporn/blob/main/certificate-25527e43-b0e7-43e2-bf12-64b83dbacab5.png"
+      alt="AIAT"
+      width="120"
+      height="80"
+    />
+ </a>
 <a href="https://www.credly.com/badges/74d3ee86-4b8a-4a72-96ff-5d46d7f2161d?source=linked_in_profile" target="_blank" rel="noreferrer">
     <img
       src="https://github.com/Kiattisak-Rattanaporn/Kiattisak-Rattanaporn/blob/main/AWS.png"
       alt="AWS"
-      width="70"
-      height="70"
+      width="80"
+      height="80"
     />
  </a>
   <a href="https://www.credly.com/badges/f14091d9-a98f-46e7-b531-82f47c344fa1?source=linked_in_profile" target="_blank" rel="noreferrer">
     <img
       src="https://github.com/Kiattisak-Rattanaporn/Kiattisak-Rattanaporn/blob/main/IBM.png"
       alt="IBM"
-      width="70"
-      height="70"
+      width="80"
+      height="80"
     />
- </a>
+ </a>  
  </div>
  <br>
  
