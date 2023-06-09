@@ -10,3 +10,10 @@ I am a highly motivated individual with a Bachelor's degree in Electronics Engin
 * Machine Learning Engineer, at [mμ Space corp](https://muspacecorp.com/)
 * Test Engineer, at [Delta Electronics Thailand](https://deltathailand.com/en/)
 * Internship Trainee, at [King Mongkut's Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
+
+## My Publications
+<p align="left">
+<img src="https://github.com/Kiattisak-Rattanaporn/Kiattisak-Rattanaporn/assets/121653740/8a2230eb-7188-4273-ab8c-049edd05d75d" alt="Alt Text" width="100" height="50">
+</p> 
+ -> [Real-Time Control Using Convolution Neural Network for Self-Driving Cars](https://ieeexplore.ieee.org/document/9426255)
+
