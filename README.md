@@ -1,8 +1,12 @@
+<h1 align="left">
+  Hi , I'm Kiattisak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
+<br>
 
-## Hi 👋, I am Kiattisak 
-I am a highly motivated individual with a Bachelor's degree in Electronics Engineering,I have transitioned my career path to become a machine learning engineer, driven by my interest in exploring the vast possibilities of data analysis and modeling. As a machine learning engineer, I am constantly seeking to learn new skills and stay up-to-date with the latest advancements in the field. 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kiattisak-rattanaporn-8aa1361a3/) [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](kiattisak.ra@hotmail.com) [<img src= "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/rkiattisak) [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/kiattisak8041?hr_r=1) ![](https://komarev.com/ghpvc/?username=Kiattisak-Rattanaporn&color=red)
 ![](https://github.com/Kiattisak-Rattanaporn/Kiattisak-Rattanaporn/blob/main/borderseperator.gif)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kiattisak-rattanaporn-8aa1361a3/) [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](kiattisak.ra@hotmail.com) [<img src= "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/rkiattisak) [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/kiattisak8041?hr_r=1) 
+
+I am a highly motivated individual with a Bachelor's degree in Electronics Engineering,I have transitioned my career path to become a machine learning engineer, driven by my interest in exploring the vast possibilities of data analysis and modeling. As a machine learning engineer, I am constantly seeking to learn new skills and stay up-to-date with the latest advancements in the field. 
 
 ## My Experiences
 * Financial Machine Learning Engineer, 2023 - present at [DeepInvest](https://deepinvest.co/)
@@ -89,3 +93,4 @@ I am a highly motivated individual with a Bachelor's degree in Electronics Engin
 [<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />](https://www.docker.com/)
 [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />](https://www.tableau.com/)
 [<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />](https://powerbi.microsoft.com/th-th/)
+
