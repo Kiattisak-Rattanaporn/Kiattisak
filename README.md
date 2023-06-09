@@ -94,4 +94,3 @@ I am a highly motivated individual with a Bachelor's degree in Electronics Engin
 [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />](https://www.tableau.com/)
 [<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />](https://powerbi.microsoft.com/th-th/)
 
-![Snake animation](https://github.com/Kiattisak-Rattanaporn/Kiattisak-Rattanaporn/blob/output/github-contribution-grid-snake.svg)
