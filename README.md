@@ -19,22 +19,48 @@ I am a highly motivated individual with a Bachelor's degree in Electronics Engin
 * [Real Time Control Using Convolution Neural Network for Self Driving Cars](https://ieeexplore.ieee.org/document/9426255) 
 * IEEE, 2021 7th International Conference on Engineering, Applied Sciences and Technology (ICEAST)
 
-## Machine learning frameworks
+## Badge
+<div>
+<a href="https://www.credly.com/badges/74d3ee86-4b8a-4a72-96ff-5d46d7f2161d?source=linked_in_profile" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/Kiattisak-Rattanaporn/Kiattisak-Rattanaporn/blob/main/AWS.png"
+      alt="AWS"
+      width="70"
+      height="70"
+    />
+ </a>
+  <a href="https://www.credly.com/badges/f14091d9-a98f-46e7-b531-82f47c344fa1?source=linked_in_profile" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/Kiattisak-Rattanaporn/Kiattisak-Rattanaporn/blob/main/IBM.png"
+      alt="IBM"
+      width="70"
+      height="70"
+    />
+ </a>
+ </div>
+ <br>
+ 
+## Skills
+* Machine learning frameworks
+
 [<img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />](https://keras.io/)
 [<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />](https://www.tensorflow.org/)
 [<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />](https://scikit-learn.org/stable/)
 
-## Languages
+* Languages
+
 [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://www.python.org/)
 [<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />](https://pandas.pydata.org/)
 [<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />](https://numpy.org/)
 
-## Database
+* Database
+
 [<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />](https://www.sqlite.org/index.html)
 [<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/)
 
-## Tools
+* Tools
+
 [<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />](https://aws.amazon.com/)
 [<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />](https://www.docker.com/)
 [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />](https://www.tableau.com/)
